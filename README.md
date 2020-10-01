@@ -1,10 +1,10 @@
 #  Data Science Station
 
-The Data Science Learning Resource of 🌰 （Coursera, edX, etc...） 
+The Data Science Learning Resource of 🌰 （Coursera, edX and much more） 
 
 ---- 
 
-## This is a treasure repo!!! Enjoy it.
+## This is a treasure repository!!! Enjoy it.
 
 ---- 
 # Categorized by domain
